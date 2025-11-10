@@ -1,5 +1,8 @@
 ## Changelog
 
+#### v0.0.....
+- [x] added usage in README
+
 #### v0.0.5
 - [x] added `config/const`
 
