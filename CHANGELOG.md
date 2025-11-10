@@ -1,5 +1,8 @@
 ## Changelog
 
+#### v0.0.4
+- [x] move `./src/config` in root directory `./config`
+
 #### v0.0.3
 - [x] added demo source code
 
