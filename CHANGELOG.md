@@ -1,5 +1,8 @@
 ## Changelog
 
+#### v0.0.3
+- [x] added demo source code
+
 #### v0.0.2
 - [x] added CHANGELOG.md
 
