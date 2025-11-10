@@ -1,5 +1,8 @@
 ## Changelog
 
+#### v0.0.5
+- [x] added `config/const`
+
 #### v0.0.4
 - [x] move `./src/config` in root directory `./config`
 
