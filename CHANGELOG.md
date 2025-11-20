@@ -1,7 +1,11 @@
 ## Changelog
 
 #### v0.0.....
+
+
+#### v0.0.6
 - [x] added usage in README
+- [x] added MIT LICENSE for `https://pkg.go.dev/github.com/florinbuzec/go-demolib` purposes
 
 #### v0.0.5
 - [x] added `config/const`
